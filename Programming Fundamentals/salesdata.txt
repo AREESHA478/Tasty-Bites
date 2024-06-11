@@ -1,0 +1,77 @@
+Order Receipt : 4951
+Pasta	1	20
+Fries	1	40
+Total :60
+
+Order Receipt : 9917
+Fajita macroni	1	50
+pizza	1	30
+Total :80
+
+Order Receipt : 6379
+Pasta	1	20
+Fries	1	40
+Total :60
+
+Order Receipt : 9980
+Pasta	11	220
+Fries	1	40
+Fajita macroni	1	50
+pizza	1	30
+Total :340
+
+Order Receipt : 1062
+Pasta	2	1300
+Fries	2	600
+Steak	2	1000
+Beaf Burger	2	1000
+Total :3900
+
+Order Receipt: 1563
+Pasta	1	600
+pizza	1	999
+Burger	2	800
+Total: 2399
+
+Order Receipt: 6143
+Pasta	2	1200
+Fries	3	600
+macroni	4	2000
+Burger	2	800
+Total: 4600
+
+Order Receipt: 1975
+Pasta	2	1200
+macroni	1	500
+Soup	2	1300
+Burger	1	400
+Total: 3400
+
+Order Receipt: 2084
+Fries	5	1000
+pizza	7	6993
+Shrimps	6	4200
+hj	8	448
+Total: 12641
+
+Order Receipt: 5242
+Pasta	1	600
+macroni	1	500
+pizza	2	1998
+Burger	3	1200
+shawrma	2	500
+Total: 4798
+
+Order Receipt: 6718
+Pasta	2	1200
+Fries	2	400
+pizza	1	999
+Shrimps	1	700
+Burger	1	400
+chickenRoll	3	750
+Total: 4449
+
+Order Receipt: 2278
+Pasta	3	1800
+Total: 1800
+
